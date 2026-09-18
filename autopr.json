@@ -1,0 +1,9 @@
+{
+  "rules": [
+    "Keep changes within the Planner-approved scope.",
+    "Add or update tests for behavior changes."
+  ],
+  "validation_commands": [
+    "pytest"
+  ]
+}
